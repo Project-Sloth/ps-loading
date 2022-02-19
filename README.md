@@ -6,6 +6,17 @@
     <img width="auto" src="https://user-images.githubusercontent.com/91661118/153122057-e0da9bcc-f1c5-407a-9388-0999fc6e80c2.png"/>
 </div>
 
+## Preview
+<div align="middle">
+    <img width="auto" src="https://user-images.githubusercontent.com/91661118/154784761-d9e1a3de-3f34-47dc-afc2-0aecb6d17042.png"/>
+</div>
+
+<br>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/91661118/154784752-9f0e3466-4175-4ccb-bd87-76fbdc6e017c.gif)
+
+<br>
+
 ## Key Features
 <div align="middle">
     <img width="auto" src="https://user-images.githubusercontent.com/91661118/154636617-a2ad4c09-4b60-4438-832a-ed1c505b52ea.png"/>
